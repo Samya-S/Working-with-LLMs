@@ -1,0 +1,65 @@
+Ashish Sinha  
+Machine Learning Engineer  
+Sector 168, Noida, Uttar Pradesh, 201304 * +91-8889682639 * ashishsavitrisinha96@gmail.com  
+
+CAREER OBJECTIVE  
+I have 2 years of industry experience with a decent academic record and look forward to utilizing the best of my knowledge in the field of Machine Learning. Having skills in Machine Learning, Deep Learning, and Artificial Intelligence, I hope to focus more on machine learning and data science in my future career.  
+
+TECHNICAL EXPERTISE  
+- Strong IT experience in analysis, design, development, implementation, and testing of Image classification systems in Python & Deep-Learning technologies.  
+- Expertise in working with various Deep Learning technologies like Tensorflow (GPU), Keras, Fast AI, & Pytorch.  
+- Expertise in NLP with various technologies like Spacy, Gensim & Sentiment Analysis.  
+- Expertise in Data Analysis with machine learning technologies Pandas, Sci-kit learn for predictive analysis.  
+- Expertise in Data Visualization with various technologies like Matplotlib, Seaborn, Bokeh, and Plotly.  
+- Expertise in model deployment using Restful API Flask.  
+- Hands-on experience with Django and Flask as backend technologies.  
+- Good knowledge of web scraping using Scrapy and Beautiful Soup.  
+
+TECHNICAL SKILLS  
+Python, C, C++, MySQL, Tensorflow, Keras, Pytorch, Fast AI, Yolo, Image Processing, AWS EC2 Instance, Flask, Django, Scrapy  
+
+PROFESSIONAL EXPERIENCE  
+
+ORGANIZATION: UMAGINE SOFT PVT. LTD.  
+Role: Machine Learning Engineer, Sep 2019 – Present  
+- Developed optimized solutions from a Deep Learning perspective for various projects.  
+- Developed a recommender system for the UmagineSoft platform (WizKonnect) and an NSFW image classification filter using CNN.  
+- Built a deep learning model for firearm detection using Yolo.  
+- Developed a seminar feedback system through computer vision techniques.  
+- Worked on human activity recognition using 2D-pose estimation.  
+- Conducted sentiment analysis and emotion classification using web scraping.  
+
+Environment & Tools/IDE: Python, MySQL, Tensorflow, Keras, Fast AI, Darknet’s Yolo, LabelImg, Git, Anaconda, Spider, OpenCV, Pandas, Scikit Learn, Flask, Linux.  
+
+ORGANIZATION: ART - ABSTINENT RESEARCH & TECHNOLOGIES  
+Role: Machine Learning Intern, Aug 2019 – Sep 2019  
+- Developed an identity recognition system for maintaining records and documentation.  
+- Worked on footfall counting using transfer learning (ResNet) achieving 70-80% accuracy.  
+
+Environment & Tools/IDE: Python, SQLite, Tensorflow, Keras, Anaconda, Spider, OpenCV, Pandas, Scikit Learn, Flask, Linux, ResNet.  
+
+ORGANIZATION: FINAMICS GLOBAL  
+Role: Research Intern, Nov 2018 - Jan 2019  
+- Researched machine learning algorithms for stock market trading.  
+- Pre-processed time series stock market data and developed a model using LSTM with minimal loss.  
+- Created a self-trading agent using reinforcement learning algorithms.  
+
+EDUCATION  
+JIWAJI UNIVERSITY, GWALIOR, MP  
+Bachelor of Engineering in Computer Science, June 2019  
+- Percentage: 70%  
+
+Higher Secondary MP BOARD  
+- Percentage: 87%  
+
+CERTIFICATION  
+- Deep Learning Specialization - Deeplearning.AI (Coursera)  
+- Machine Learning with Python - Udemy  
+- Python Specialization - University of Michigan (Coursera)  
+- NLP Bootcamp - Datacamp  
+
+ACHIEVEMENTS & RECOGNITION  
+- Client Appreciation for handling multiple tasks under tight deadlines.  
+- Recognition from the lead for being an excellent team player.  
+- Coordinator of my university youth fest 2018.  
+- 2nd Finisher in IoT Solution Development Competition at IIT Kanpur.

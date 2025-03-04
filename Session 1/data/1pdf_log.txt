@@ -1,0 +1,71 @@
+📞 9176163248  
+📧 arushigupta9431@gmail.com  
+📍 Bengaluru  
+🔗 arushigupta05  
+
+ARUSHI GUPTA  
+Senior System Engineer  
+
+SUMMARY  
+3.5 years experienced Front-End Web Developer skilled in UI development with React JS, testing etc. Adept at end to end UI  
+development including requirement gathering, coding & unit & integration testing. Looking forward to widen my skills and experience  
+in a challenging opportunity in professional organization.  
+
+PROFESSIONAL EXPERIENCE  
+
+Infosys Limited  
+
+Bank Of America  
+The Bank of America Corporation is an American multinational investment bank and financial services holding company  
+Product: A workplace to store and manage the underwriting documents of the bank.  
+Frontend: React TypeScript, HTML5 , CSS3, Material UI  
+
+- Developed multiple screens for the application, reusable components such as Dialog Box, Tables etc.  
+- Integrated the API's to fetch data from clients data base and to add to the database.  
+- Tested the screens with Jest and Enzyme.  
+
+📅 Dec '17 - Present  
+
+Blume Global  
+A US based logistics platform provider, building cloud solutions in the areas of shipment planning , logistics execution and finance.  
+Product: Modules to store data for delivering products and services more efficiently for assets, visibility, finance, optimization and  
+logistics.  
+Frontend: React JS, Javascript, HTML5 , CSS3, Material UI  
+
+- Developed forms like structure, accordians, autofills , etc that will help the driver to deliver to particular address and help client  
+store the logs.  
+- Identify recurrent problems with existing sites and come up with fixes.  
+- Langiage localisation for application to be available in required languages.  
+- Integrated the API's to fetch data from clients data base and to add to the database.  
+
+Sysco  
+A US based MNC inolved in distribution of food products, smallwares, kitchenware equipments to restraunts, healthcare facilities , hotels , etc.  
+Product: Developed application to view and update the freight rate and pickup allowances for multiple vendors across US. And also  
+developed a part of content management tool to manage the financial documents of the client.  
+Frontend: React JS, Redux, Javascript HTML5 , CSS3, Bootstrap  
+
+- Developed user friendly responsive screens for the application.  
+- Created the country based login screen and dashboard.  
+- Worked in application design and architecture to add all the details of the vendor and freight rates.  
+- Integrated the API's to fetch data from clients data base and to add to the database.  
+
+UI Development  
+Unit Testing  
+Agile Methodology  
+Code Optimization  
+Documentation  
+
+KEY SKILLS  
+TECHNICAL SKILLS  
+Technologies: JavaScript, React JS, Redux, Hooks, HTML5, CSS3, Typescript  
+CSS : CSS3, Bootstrap, Material UI  
+Testing Tools: Jest and Enzyme  
+
+CERTIFICATIONS  
+Udacity certified Front End Web Developer Nanodegree Program  
+
+EDUCATION  
+SRM University  
+B.Tech in Electronics and Communications  
+📅 Apr '13 - May '17  
+📍 Chennai, TN  
