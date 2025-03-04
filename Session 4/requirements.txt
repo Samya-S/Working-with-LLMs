@@ -1,0 +1,5 @@
+langchain
+openai
+pymysql
+python-dotenv
+flask
